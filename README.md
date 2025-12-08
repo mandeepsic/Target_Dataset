@@ -6,15 +6,15 @@ downsampling, with all parameters recorded in the rqt/ folder. Plane segmentatio
 bounding box computation and corner detection to determine the Height and Width.
 Representative visualizations of Height and Width measurements are included in the figures/ folder.
 
-Data Access
+#Data Access
 The raw .pcd files and scripts are available upon request. Researchers can submit a request via the Google Form: [Insert Form Link].
 Once your request is approved:
 1. The requested files will be uploaded to the repository.
 2. A direct GitHub link to the files will be shared with you via email.
 
-Reproducibility and Workflow
+#Reproducibility and Workflow
 Software and Parameters: All preprocessing steps and filter parameters are documented in the rqt/ folder.
 Pseudo Code: A simplified workflow is described below:
 
-Citation
+#Citation
 Citation information will be provided after publication.
